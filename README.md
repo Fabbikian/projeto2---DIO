@@ -8,7 +8,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
-Leonardo.io
+Leonardo.ia
 Canva
 🧠 Prompts
 ChatGPT：
@@ -33,7 +33,7 @@ título:	a vibrant and dreamlike cinematic photograph of a surreal scene depicti
 
 ✨ Features
 Conteúdo gerado via ChatGPT
-Imagens geradas via Leonardo.io
+Imagens geradas via Leonardo.ia
 
 📚 Materiais
 Imagens utilizadas em assets
