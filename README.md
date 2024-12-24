@@ -15,7 +15,7 @@ ChatGPT：
 
 Ação	prompt
 
-Criação de e-book de 3 passos para ensinar o passo a passo de um respiração profunda da yoga pranayama com foco para começar o dia mais calma e focado no que importa.
+Criação de e-book de 3 rodadas para ensinar o passo a passo de um respiração profunda da yoga pranayama com foco para começar o dia mais calma e focado no que importa.
 Esse e-book tem a proposta de realizar a respiração de 7 dias contínuos, podendo ser replicado até 21 dias.
 
 Capa.
