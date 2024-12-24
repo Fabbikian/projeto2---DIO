@@ -3,7 +3,7 @@ Projeto de Criando um E-book
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-👉 **[Clique aqui para ler](./ebook.pdf)** 🚀
+👉 **[Clique aqui para ler](.[/ebook.pdf](https://github.com/Fabbikian/projeto2---DIO/blob/main/Prespira%C3%A7%C3%A3o%20Profunda%20de%20pranayama%20-%20E-book.pdf))** 🚀
 
 
 💻 Tecnologias utilizadas no projeto
